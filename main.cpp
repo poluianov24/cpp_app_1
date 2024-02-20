@@ -18,4 +18,5 @@ int main() {
 	SetConsoleOutputCP(1251);
 	std::cout << "«Kraj lukomor’a dub zelenyj, \n\a\a\aI zolotyj lancyuh na nim : \n\a\a\aShodnya, shonochi kit uchenyj \n\a\a\aNa lancyuhu kruzhl’aje tim”" << std::endl;
 	_getch();
+	return 0;
 }
